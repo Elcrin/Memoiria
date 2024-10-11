@@ -149,3 +149,7 @@ line-height: 0;
 .displayflex{
     display: flex;
 }
+
+.TextBoxMain a:link{
+    color:blue;
+}
