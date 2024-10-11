@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-image: url(Images/backround.png);
-    background-size: auto auto;
+    background-size: auto 200vh;
     resize: vertical;
     background-repeat: no-repeat;
     text-align: center;
