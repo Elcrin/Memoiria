@@ -115,7 +115,7 @@ body {
 }
 .CharacterGallery {
     display: grid;
-    grid-template-columns: repeat(6, 3fr);
+    grid-template-columns: repeat(5, 3fr);
     grid-gap: 1vh;
     object-fit: cover;
     font-family: "Concert One", sans-serif;
