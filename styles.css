@@ -25,6 +25,11 @@ body {
 }
 .TextBoxMain a:link{
     color:blue;
+    text-decoration: underline;
+}
+.TextBoxMain a:visited{
+    color:purple;
+    text-decoration: underline;
 }
 
 .topbuttons{
@@ -148,8 +153,4 @@ line-height: 0;
 
 .displayflex{
     display: flex;
-}
-
-.TextBoxMain a:link{
-    color:blue;
 }
