@@ -1,4 +1,4 @@
-const URL = "http://worldtimeapi.org/api/timezone/UTC";
+const URL = "https://worldtimeapi.org/api/timezone/UTC";
 const LastUpdate =  "2024-10-23T03:16:04.988523+00:00";
 var currentTime = " ";
 
